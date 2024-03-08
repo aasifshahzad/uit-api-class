@@ -1,6 +1,3 @@
-Sure, here's a basic README.md file for your project:
-
-```markdown
 # UITClass
 
 UITClass is a Python project built with FastAPI and managed with Poetry. It provides a simple API for locating places based on their names.
@@ -54,6 +51,3 @@ Contributions are welcome! Please follow these steps:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-Replace `your-username` with your GitHub username in the installation instructions. Adjust any other details or paths as necessary for your project structure. This README.md provides basic information about your project, including installation instructions, usage, endpoints, dependencies, contribution guidelines, and licensing information. You can further customize it based on your project's specific needs.
